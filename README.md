@@ -1,4 +1,24 @@
-### Hi there 👋
+# Olá! 👋
+
+Sou Aniel Melo, aluno do IFPB - Campus Esperança, estudante de Análise e Desenvolvimento de Sistemas no 2º período, focado em desenvolvimento em Java e Python.
+
+## Destaques 🌟
+
+- 🎓 Estudante do IFPB interessado em Java e Python.
+- 💻 Trabalhando em aplicações nessas linguagens.
+
+## Metas Futuras 🚀
+
+- 🧠 Aprofundar conhecimentos em programação.
+- 🚀 Expandir habilidades técnicas.
+
+## Colaboração e Contato 🤝
+
+- 💬 Aberto a feedbacks e colaborações.
+- 📧 [E-mail] anielcontato@gmail.com
+
+Explore meus repositórios para ver o que estou criando e aprendendo no mundo do desenvolvimento de software!
+
 
 <!--
 **anielmelo/anielmelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
