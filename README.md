@@ -1,11 +1,11 @@
 # Olá! 👋
 
-Sou Aniel Melo, aluno do IFPB - Campus Esperança, estudante de Análise e Desenvolvimento de Sistemas no 2º período, focado em desenvolvimento em Java e Python.
+Sou Aniel Melo, aluno do IFPB - Campus Esperança, estudante de Análise e Desenvolvimento de Sistemas no 2º período, focado em desenvolvimento em Java.
 
 ## Destaques 🌟
 
-- 🎓 Estudante do IFPB interessado em Java e Python.
-- 💻 Trabalhando em aplicações nessas linguagens.
+- 🎓 Estudante do IFPB interessado em Java.
+- 💻 Trabalhando em aplicações com Java.
 
 ## Metas Futuras 🚀
 
