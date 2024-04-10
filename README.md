@@ -22,17 +22,16 @@
 
 ## Estatísticas
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anielmelo&layout=donut-vertical&theme=dracula"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anielmelo&layout=compact&theme=dark"/>
 </p>
 
 ## Contatos
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" href="mailto:anielcontato@gmail.com"/>
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="www.linkedin.com/in/aniel-melo"/>
+  <a href="mailto:anielcontato@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+  <a href="https://www.linkedin.com/in/aniel-melo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
-
 
 <!--
 **anielmelo/anielmelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
