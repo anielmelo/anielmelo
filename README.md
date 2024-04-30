@@ -35,7 +35,8 @@ Olá! Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) no Instituto
 
 ## Estatísticas
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anielmelo&layout=compact&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anielmelo&layout=compact&theme=dark" height='200'/>&nbsp;
+<img align='right' src="https://i.pinimg.com/originals/54/c9/af/54c9af226721e95539a5cd9592d635bb.gif" height='200'/>
 
 ## Contatos
 
