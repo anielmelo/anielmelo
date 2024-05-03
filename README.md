@@ -43,6 +43,13 @@
 
 <br>
 
+<footer>
+  
+  #
+  
+  <p align="center">🌟 Obrigado por visitar! Explore meus repositórios para ver o que estou criando e aprendendo no mundo do desenvolvimento de software!</p>
+</footer>
+
 <!--
 **anielmelo/anielmelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
