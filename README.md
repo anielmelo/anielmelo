@@ -13,8 +13,10 @@
 
 <h3 align="center">Habilidades e Produtividade</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=css,discord,docker,figma,github,gradle,html,idea,java,js,linux,md,maven,mysql,nodejs,notion,npm,obsidian,php,pnpm,postgres,postman,py,spring,ts,vscode,&perline=13"/>
+  <img src="https://skillicons.dev/icons?i=git,html,css,js,ts,nodejs,java,php,py,md,postgres,mysql,gradle,maven,pnpm,npm,linux,docker,spring,laravel,express,bootstrap,idea,vscode,github,discord,postman,obsidian,notion,figma&perline=15"/>
 </p>
+
+<br>
 
 <h3 align="center">Estatísticas</h3>
 
@@ -22,10 +24,15 @@
 | ----------- | ----------- |
 
 <br>
+<br>
 
 <footer>
   
   #
   
-  <p align="center">Obrigado por visitar! Explore meus repositórios para ver o que estou criando e aprendendo no mundo do desenvolvimento de software!</p>
+  **<p align="center">Obrigado por visitar!</p>**
+  
+  <p align="center">
+    Explore meus repositórios para ver o que estou criando e aprendendo no mundo do desenvolvimento de software!
+  </p>
 </footer>
