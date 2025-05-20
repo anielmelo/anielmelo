@@ -1,5 +1,4 @@
-
-**<h3 align="center">Olá, eu sou Aniel Melo!</h3>**
+![profile_banner](https://github.com/user-attachments/assets/0c49ce94-e8b8-4bd9-aea1-2e85fa95a6bb)
 
 <p align="center">
   <a href="mailto:anielcontato@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
